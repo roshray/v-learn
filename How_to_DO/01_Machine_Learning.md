@@ -28,6 +28,21 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 - SIRAJ  -- Director of School of AI.
 
           He Designed a Proper Curriculum to Study Machine Learning.
+          
+### Pre-requisites 
+
+- Maths Revision
+
+[Review](http://cs229.stanford.edu/syllabus.html)
+
+- Atleast 1 Programming Language.
+
+- Python
+
+- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+- [edx](https://www.edx.org/course/introduction-python-data-science-2)
+
 
 ### Courses -- 
 
@@ -46,9 +61,12 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
                           
 - [Tensorflow_in_Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 
-- Select One of those Area and Build Some Project.
+### Select One of those Area and Build Some Project.
 
-[Some_Ideas](https://github.com/llSourcell?tab=repositories)
+- [Some_Ideas](https://github.com/llSourcell?tab=repositories)
+
+- [Some_More_IDeas](https://github.com/NirantK/awesome-project-ideas)
+
 
 **Start Applying to Internshala.(For Feedback)**
 
