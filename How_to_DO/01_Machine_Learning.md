@@ -2,19 +2,26 @@
 
 - Fill the Google Forms.
 
-- Carrer Switch (SRK)
+- Career Switch (SRK)
 
 - [Tetiana Ivanova: How to become a Data Scientist in 6 Months, a Hacker's Approach to Career Planning
 PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [What did she Do](https://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
+
 ### Profile Review
 
-- [SRK Carrer](https://www.youtube.com/watch?v=PJs_2Kyw_RQ)
-- [Profile Review](https://in.linkedin.com/in/sudalairajkumar)
+- [SRK Career](https://www.youtube.com/watch?v=PJs_2Kyw_RQ)
+
+- [SRK Profile Review](https://in.linkedin.com/in/sudalairajkumar)
+
 - Kaggle -- Abhisekh Thakur
 
 - [Interview with Triple Kaggle Grandmaster](https://www.youtube.com/watch?v=8lniZVqRLA0)
+
+- Andrej Karpathy
+
+[Senior Director of Artifical Intelligence at Tesla](https://www.linkedin.com/in/andrej-karpathy-9a650716)
 
 - SIRAJ
 
@@ -33,12 +40,14 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
                          NLP                       -- Google Translate 
                          Recommended System        -- Netflix,Youtube,...
                          Time Series Forecasting   -- Weather Forecast.
+                         Reinforcement Learning    -- AlphaGO
                           
 - [Tensorflow_in_Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 - Select One of those Area and Build Some Project.
 
 ### Advanced Specializations
+
 - NLP
 
 [NLP-Oxford](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
@@ -52,9 +61,12 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 - Computer Vision
 
 [Computer-Vision-Andrej Kapathy-standford](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
 [ComputerVision-standford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ### Participate on Kaggle -- Play with the dataset 
+
+[Track Your Performance](https://www.kaggle.com/progression)
 
 - Fast ai 
 
