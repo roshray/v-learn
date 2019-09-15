@@ -1,7 +1,5 @@
 ## How to Learn Machine Learning.
 
-- Fill the Google Forms.
-
 - Career Switch (SRK)
 
 - [Tetiana Ivanova: How to become a Data Scientist in 6 Months, a Hacker's Approach to Career Planning
