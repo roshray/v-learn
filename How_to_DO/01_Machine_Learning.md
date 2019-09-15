@@ -9,9 +9,13 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### Profile Review
 
-- [SRK Career](https://www.youtube.com/watch?v=PJs_2Kyw_RQ)
+- SRK 
 
 - [SRK Profile Review](https://in.linkedin.com/in/sudalairajkumar)
+
+- [SRK ->Mechanical Engineer 2 Top notch Data Scientist](https://www.youtube.com/watch?v=PJs_2Kyw_RQ)
+
+
 
 - Kaggle -- Abhisekh Thakur
 
@@ -19,9 +23,9 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - Andrej Karpathy
 
-[Senior Director of Artifical Intelligence at Tesla](https://www.linkedin.com/in/andrej-karpathy-9a650716)
+- [Senior Director of Artifical Intelligence at Tesla](https://www.linkedin.com/in/andrej-karpathy-9a650716)
 
-- SIRAJ
+- SIRAJ  -- Director of School of AI.
 
           He Designed a Proper Curriculum to Study Machine Learning.
 
@@ -44,6 +48,10 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - Select One of those Area and Build Some Project.
 
+[Some_Ideas](https://github.com/llSourcell?tab=repositories)
+
+**Start Applying to Internshala.(For Feedback)**
+
 ### Advanced Specializations
 
 - NLP
@@ -64,7 +72,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### Participate on Kaggle -- Play with the dataset 
 
-[Track Your Performance](https://www.kaggle.com/progression)
+[Track Your Performance on Kaggle](https://www.kaggle.com/progression)
 
 - Fast ai 
 
@@ -90,6 +98,6 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ## References :
 
-[Refereces](https://github.com/ZuzooVn/machine-learning-for-software-engineers)    
+[machine-learning -- why & How ?](https://github.com/ZuzooVn/machine-learning-for-software-engineers)    
 
 
