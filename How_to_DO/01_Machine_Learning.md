@@ -29,7 +29,9 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
           He Designed a Proper Curriculum to Study Machine Learning.
           
-### Pre-requisites 
+### Pre-requisites
+
+- [Myth of Maths](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
 
 #### Maths Revision
 
