@@ -37,9 +37,15 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
 
+#### How to Read Mathematics 
+
+[A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+[Read_Maths](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+
 - Atleast 1 Programming Language.
 
-- Python
+## Python
 
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
