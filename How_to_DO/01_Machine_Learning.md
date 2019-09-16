@@ -33,7 +33,15 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Myth of Maths](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
 
-- [Intelligence and How to Get It:](https://www.amazon.com/Intelligence-How-Get-It-Cultures/dp/0393337693)
+- [Intelligence and How to Get It:](https://www.amazon.com/Intelligence-How-Get-It-Cultures/dp/0393337693)cs 
+
+### Cool Mathematics Youtube Channel
+
+- [Welch Labs](https://www.youtube.com/user/Taylorns34/playlists)
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+
+- [Jeremy Balka's statistics channel](https://www.youtube.com/user/jbstatistics/playlists)
 
 #### Maths Revision
 
