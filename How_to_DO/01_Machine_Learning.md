@@ -31,9 +31,11 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
           
 ### Pre-requisites 
 
-- Maths Revision
+#### Maths Revision
 
-[Review](http://cs229.stanford.edu/syllabus.html)
+- [Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+
+- [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
 
 - Atleast 1 Programming Language.
 
