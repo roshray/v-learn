@@ -58,7 +58,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### Courses -- 
 
-[Profile Andrew Ng](https://www.coursera.org/instructor/andrewng)
+- [Profile Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Deep_Learning](https://www.coursera.org/specializations/deep-learning)
