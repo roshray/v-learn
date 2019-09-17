@@ -131,20 +131,22 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 [Track Your Performance on Kaggle](https://www.kaggle.com/progression)
 
-- Fast ai 
+### Fast ai 
 
-[Jeremy Howard](https://www.fast.ai/)
+- [Jeremy Howard](https://www.fast.ai/)
 
 ### Udacity Nanodegree
  
  
-- CarrerCon '19
+- CarrerCon ('19 - *)
 
               Kaggle
               Anglelist
               Linkedin
               StackoverFlow
               Internshala
+              Career Section of Company you liked.
+              Networking / Conference /References   .......
               
 ### Crash Course 
 
