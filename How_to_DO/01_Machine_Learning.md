@@ -63,17 +63,17 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [edx](https://www.edx.org/course/introduction-python-data-science-2)
 
-## Elemenatry Machine Learning LIB's.
+## Elementary Machine Learning Lib's.
 
 - Scikit-Learn
 
 - Pandas
 
-- Numpy/cupy
+- Numpy/Cupy
 
 - Matplotlib
 
-## ML Frameworks
+### ML Frameworks
 
 - Tensorflow
 
