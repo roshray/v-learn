@@ -167,5 +167,9 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 - [Kaggle Deep Learning For Computer Vision](https://www.kaggle.com/dansbecker/intro-to-dl-for-computer-vision)
 
 
+#### Help Blogs
 
-
+- [Andrej Karpathy blog](http://karpathy.github.io/)
+- [Colah](http://colah.github.io/)
+- [kaggle](http://blog.kaggle.com/)
+- [WildML](http://www.wildml.com/deep-learning-glossary/)
