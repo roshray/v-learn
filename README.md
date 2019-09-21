@@ -3,7 +3,7 @@
                   I started in 2016 End,Had explored machine learning from courses to practical application and what not ,below all this are one of the well crafted knowledges shared by people over the internet.
                                         Simply,Enjoy your Ride.
 
-# How to Learn Machine Learning.
+# Learn Machine Learning.
 
                    Supervised --> Unsupervised --> Reinforcement Learning [Real World Application] -->{Choice is yours}
     
