@@ -5,7 +5,7 @@
 
 # How to Learn Machine Learning.
 
-                             Supervised --> Unsupervised --> Reinforcement Learning [Real World Application]{Choice is yours}
+                   Supervised --> Unsupervised --> Reinforcement Learning [Real World Application] -->{Choice is yours}
     
 - [Tetiana Ivanova: How to become a Data Scientist in 6 Months, a Hacker's Approach to Career Planning
 PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
