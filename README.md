@@ -1,13 +1,12 @@
+
+                              
+                  I started in 2016 End,Had explored machine learning from courses to practical application and what not ,below all this are one of the well crafted knowledges shared by people over the internet.
+                                        Simply,Enjoy your Ride.
+
 # How to Learn Machine Learning.
 
                              Supervised --> Unsupervised --> Reinforcement Learning [Real World Application]{Choice is yours}
     
-                  
-                  
-                  I started in 2016 End,Had explored machine learning from courses to practical application and what not ,below all this are one of the well crafted knowledges shared by people over the internet.
-                                        Simply,Enjoy your Ride.
-
-
 - [Tetiana Ivanova: How to become a Data Scientist in 6 Months, a Hacker's Approach to Career Planning
 PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
