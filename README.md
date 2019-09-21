@@ -35,7 +35,11 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Myth of Maths](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
 
-- [Intelligence and How to Get It:](https://www.amazon.com/Intelligence-How-Get-It-Cultures/dp/0393337693)cs 
+#### How to Read Mathematics 
+
+[A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+[Read_Maths](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 
 ### Cool Mathematics Youtube Channel
 
@@ -51,11 +55,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
 
-#### How to Read Mathematics 
 
-[A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-
-[Read_Maths](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
 
 - Atleast 1 Programming Language.
 
