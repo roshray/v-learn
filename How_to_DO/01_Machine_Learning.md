@@ -1,13 +1,16 @@
 ## How to Learn Machine Learning.
     
-                                    
+                                  I started in 2016 End,Had explored machine learning from courses to practical application and what not ,below all this are one of the well crafted knowledges shared by people over the internet.
+                                        Simply,Enjoy your Ride.
 
-- Career Switch (SRK)
 
 - [Tetiana Ivanova: How to become a Data Scientist in 6 Months, a Hacker's Approach to Career Planning
 PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [What did she Do](https://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
+
+#### Career Switch (SRK)
+
 
 ### Profile Review
 
@@ -17,8 +20,6 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [SRK ->Mechanical Engineer 2 Top notch Data Scientist](https://www.youtube.com/watch?v=PJs_2Kyw_RQ)
 
-
-
 - Kaggle -- Abhisekh Thakur
 
 - [Interview with Triple Kaggle Grandmaster](https://www.youtube.com/watch?v=8lniZVqRLA0)
@@ -26,10 +27,6 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 - Andrej Karpathy
 
 - [Senior Director of Artifical Intelligence at Tesla](https://www.linkedin.com/in/andrej-karpathy-9a650716)
-
-- SIRAJ  -- Director of School of AI.
-
-                                       He Designed a Proper Curriculum to Study Machine Learning.
           
 ### Pre-Requisites
 
@@ -39,7 +36,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### Cool Mathematics Youtube Channel
 
-- [Welch Labs](https://www.youtube.com/user/Taylorns34/playlists)
+- [Welch Labs_Neural-Netowrks-whatan Exaplanation](https://www.youtube.com/user/Taylorns34/playlists)
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 
@@ -59,13 +56,15 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - Atleast 1 Programming Language.
 
-## Python
+### Python
+
+- [Microsoft_Python](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 - [edx](https://www.edx.org/course/introduction-python-data-science-2)
 
-## Elementary Machine Learning Lib's.
+### Elementary Machine Learning Lib's.
 
 - Scikit-Learn
 
@@ -77,7 +76,9 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### ML Frameworks
 
-- Tensorflow
+####  Tensorflow
+
+- [Tensorflow_in_Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 - Chainer
 
@@ -99,7 +100,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Deep_Learning](https://www.coursera.org/specializations/deep-learning)
 
-### It time to choose Specialization's
+### Time to choose Specialization's
                     
                          Computer Vision           -- Face Recognition App
                          NLP                       -- Google Translate 
@@ -107,7 +108,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
                          Time Series Forecasting   -- Weather Forecast.
                          Reinforcement Learning    -- AlphaGO
                           
-- [Tensorflow_in_Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
+
 
 ### Select One of those Area and Build Some Project.
 
