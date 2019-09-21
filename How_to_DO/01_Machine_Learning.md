@@ -119,17 +119,17 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### Advanced Specializations
 
-- NLP
+#### NLP
 
 [NLP-Oxford](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 
 [NLP-Standford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-- Deep Learning
+#### Deep Learning
 
 [Deep Learning](https://www.youtube.com/playlist?list=PLjK8ddCbDMphIMSXn-w1IjyYpHU3DaUYw)
 
-- Computer Vision
+#### Computer Vision
 
 [Computer-Vision-Andrej Kapathy-standford](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
@@ -139,11 +139,11 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 [Track Your Performance on Kaggle](https://www.kaggle.com/progression)
 
-### Fast ai 
+### Fast ai (one of my fav -- )
 
 - [Jeremy Howard](https://www.fast.ai/)
 
-### Udacity Nanodegree
+### Udacity Machine Learning Nanodegree (Beginners Level)
  
  
 - CarrerCon ('19 - *)
@@ -163,8 +163,6 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 - [Facebook](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - [Kaggle Deep Learning For Computer Vision](https://www.kaggle.com/dansbecker/intro-to-dl-for-computer-vision)
 
-## References :
 
-[machine-learning -- why & How ?](https://github.com/ZuzooVn/machine-learning-for-software-engineers)    
 
 
