@@ -5,7 +5,7 @@
 
 # Learn Machine Learning.
 
-                   Supervised --> Unsupervised --> Reinforcement Learning [Real World Application] -->{Choice is yours}
+     Supervised --> Unsupervised --> Reinforcement Learning [Real World Application] -->{Choice is yours}
     
 - [Tetiana Ivanova: How to become a Data Scientist in 6 Months, a Hacker's Approach to Career Planning
 PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
@@ -35,7 +35,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Myth of Maths](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
 
-#### How to Read Mathematics 
+#### Read Mathematics 
 
 [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
