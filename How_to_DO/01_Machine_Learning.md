@@ -27,7 +27,7 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - SIRAJ  -- Director of School of AI.
 
-          He Designed a Proper Curriculum to Study Machine Learning.
+                                       He Designed a Proper Curriculum to Study Machine Learning.
           
 ### Pre-Requisites
 
@@ -88,9 +88,16 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 - [Profile Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+### The uses of Mathematic's in AI --- By Hugo Larochelle Perfect Place 
+
+- [NeuralNetworkClasses_Hugo_larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+### Deep Learning By Andrew Ng
+
 - [Deep_Learning](https://www.coursera.org/specializations/deep-learning)
 
-- Specializations
+### It time to choose Specialization's
                     
                          Computer Vision           -- Face Recognition App
                          NLP                       -- Google Translate 
@@ -102,12 +109,10 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ### Select One of those Area and Build Some Project.
 
-- [Some_Ideas](https://github.com/llSourcell?tab=repositories)
-
 - [Some_More_IDeas](https://github.com/NirantK/awesome-project-ideas)
 
 
-**Start Applying to Internshala.(For Feedback)**
+**Start Applying --> Internshala.(For Feedback)**
 
 ### Advanced Specializations
 
