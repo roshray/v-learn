@@ -31,15 +31,17 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Senior Director of Artifical Intelligence at Tesla](https://www.linkedin.com/in/andrej-karpathy-9a650716)
           
-### Pre-Requisites
+### Pre-Requisites -- will to learn ---> that's it.
 
 - [Myth of Maths](https://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/)
 
 #### Read Mathematics 
 
-[A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
-[Read_Maths](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+- [Read_Maths](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html)
+
+
 
 ### Cool Mathematics Youtube Channel
 
@@ -55,9 +57,11 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf)
 
+- [The Matrix cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
 
-
-- Atleast 1 Programming Language.
+```
+Atleast 1 Programming Language.
+```
 
 ### Python
 
@@ -77,6 +81,12 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - Matplotlib
 
+## Phase - 1 Checklist.
+
+- Maths
+- Any one programming language.
+- Basic ML Libs's
+
 ### ML Frameworks
 
 ####  Tensorflow
@@ -95,6 +105,26 @@ PyData London.](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+## Phase - II checklist.
+
+- Any one ML Framework EX- tensorflow / chainer / pytorch ......
+
+```
+
+Although it is said : 
+                       Tensorflow for production used.
+                       Pytorch for Academia Research used.
+```
+- Machine Learning Course -- Andrew NG (Concepts and alogorithm)
+
+- Replicating the Machine learning Algorithm from  scratch.
+
+- Trying hands on different dataset.
+
+                                        kaggle dataset.
+                                        
+- Add to your routine -- hands on kaggle dataset(Be Persistence from this days onwards.)                                         
+                                        
 ### The uses of Mathematic's in AI --- By Hugo Larochelle Perfect Place 
 
 - [NeuralNetworkClasses_Hugo_larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
