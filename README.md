@@ -117,7 +117,8 @@ Although it is said :
 ```
 - Machine Learning Course -- Andrew NG (Concepts and alogorithm)
 
-- Replicating the Machine learning Algorithm from  scratch.
+- Replicating the Machine learning Project.
+  - [ML project](https://www.eduonix.com/learn-machine-learning-by-building-projects)
 
 - Trying hands on different dataset.
 
