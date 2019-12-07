@@ -204,3 +204,7 @@ Although it is said :
 - [Colah](http://colah.github.io/)
 - [kaggle](http://blog.kaggle.com/)
 - [WildML](http://www.wildml.com/deep-learning-glossary/)
+
+### Academy
+
+- [montrealartificialintelligence](https://montrealartificialintelligence.com/academy/)
